@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930257398546",
+    "project_id": "examen-machucabarbara-ca001",
+    "storage_bucket": "examen-machucabarbara-ca001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930257398546:android:faa706c62c0746785261cb",
+        "android_client_info": {
+          "package_name": "com.example.examen_machuca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVF5SFIRG6iyB3Tiwn9FPHxR_1vg97U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
